@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "fname": "chehab",
+    "lname": "mohamed",
+    "age": "21",
+    "city": "cairo"
+  },
+  {
+    "id": "3",
+    "fname": "karim",
+    "lname": "chehab",
+    "age": "20",
+    "city": "cairo"
+  },
+  {
+    "id": "5",
+    "fname": "Ervin",
+    "lname": "Howell",
+    "age": "24",
+    "city": "alexandria"
+  },
+  {
+    "id": "7",
+    "fname": "Patricia",
+    "lname": "Lebsack",
+    "age": "22",
+    "city": "cairo"
+  },
+  {
+    "id": "9",
+    "fname": "Kurtis",
+    "lname": "Weissnat",
+    "age": "20",
+    "city": "mansoura"
+  },
+  {
+    "id": "10",
+    "fname": "Dennis",
+    "lname": "Schulist",
+    "age": "21",
+    "city": "cairo"
+  }
+]
